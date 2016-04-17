@@ -1,0 +1,70 @@
+body{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.TLfiller{
+    background-color:#878b9c;
+    padding-right:65px;
+    color:#878b9c;
+    float:left;
+    padding-bottom:113px;
+}
+.logo{
+    background-color: #5e616e;
+    color:white;
+    float:left;
+    font-size: 4.25em;
+    padding-left:30px;
+    padding-right:580px;
+    padding-top:26px;
+    font-family: serif;
+    padding-bottom: 27px;
+    font-style: italic;
+    margin-left:5px;
+}
+
+.left{
+    color:#f6990e;
+}
+
+.nav{
+    float:left;
+    font-size:1.8em;
+    padding-left: 59px;
+    padding-top: 20px;
+    background-color:#5e616e;
+    color:white;
+    padding-right:54px;
+    margin-top:5px;
+    padding-bottom:29px;
+    
+    
+    
+}
+.nav2{
+    margin-bottom: 100px;
+
+    
+}
+.homepage{
+    float: left;
+    padding-top:5px;
+    padding-left:5px;
+    width: 590px;
+    
+}
+.homepage2{
+    float:left;
+    padding-top: 5px;
+    padding-left: 5px;
+    width:420px;
+    height: 581px;
+    
+}
+.intro{
+    font-family: cursive;
+}
+
+    
